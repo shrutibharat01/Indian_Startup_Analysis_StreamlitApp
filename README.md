@@ -51,7 +51,7 @@ Make sure to download the dataset and place it in the appropriate directory with
 
 The Indian Startup Funding Data Visualization project features three main sections, each offering a unique perspective on the startup funding ecosystem:
 
-![Startup Analysis](front_page.png)
+![Startup Analysis](Front_page.png)
 
 ### Section 1: Overall Analysis
 This section provides an overarching view of the Indian startup funding landscape. Dive into the following captivating components:
@@ -63,7 +63,7 @@ This section provides an overarching view of the Indian startup funding landscap
 - **🏆 Top 10 Most Funded Startups:** Uncover the startups that have secured the most funding over the years.
 - **🏆 Top Investors:** Identify the investors who have made the largest investments.
 
-![Overall Analysis](2nd_pange.png)
+![Overall Analysis](2nd_page.png)
 
 ### Section 2: Startup Analysis
 In this section, you can delve into the details of individual startups. Simply select a startup from the dropdown menu and explore:
